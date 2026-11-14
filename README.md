@@ -1,2 +1,1 @@
-# biometrics-hub-notebooks
-My notebooks for the BioMetrics &amp; HealthData Hub course
+Click the green Commit changes… button, then Commit changes again in the small window
